@@ -17,5 +17,5 @@ PHeroCollege is educational website that available different types of courses an
 
 ## Resources & Credits
 - Icon: React-Icon
-- ImageHosting: https://md-humayun-kabir2.imgbb.com/
+- ImageHosting: [https://md-humayun-kabir2.imgbb.com/]
 # PHeroCollege-ClientSite
