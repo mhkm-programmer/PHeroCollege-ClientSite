@@ -1,7 +1,7 @@
 
 # PHeroCollege Starter Repository
 
-FitMindful is yoga and meditation website that available different types of courses and tips!!!
+PHeroCollege is educational website that available different types of courses and tips!!!
 
 ![App Screenshot](https://i.ibb.co/Czgj9MW/PHero-College.png/468x300?text=App+Screenshot+Here)
 
