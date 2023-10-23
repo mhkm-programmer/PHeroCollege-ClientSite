@@ -6,7 +6,7 @@ PHeroCollege is educational website that available different types of courses an
 ![App Screenshot](https://i.ibb.co/Czgj9MW/PHero-College.png/468x300?text=App+Screenshot+Here)
 
 
-## API Server Live Link
+## Website Server Live Link
 - Hosted in Netlify: https://pherocollege.netlify.app/
 ## Starter Template
 - Github Repo: https://github.com/mhkm-programmer/PHeroCollege-ClientSite
